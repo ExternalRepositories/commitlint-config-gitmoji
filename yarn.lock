@@ -3288,9 +3288,9 @@
   integrity sha1-KzXsz87n04zXKtmSMvvVi/+zyE0=
 
 "@types/semantic-release@^17.2.0":
-  version "17.2.0"
-  resolved "https://registry.npm.taobao.org/@types/semantic-release/download/@types/semantic-release-17.2.0.tgz#2ed941f0ccd1ba714ec46ddefe4f224164946872"
-  integrity sha1-LtlB8MzRunFOxG3e/k8iQWSUaHI=
+  version "17.2.2"
+  resolved "https://registry.yarnpkg.com/@types/semantic-release/-/semantic-release-17.2.2.tgz#2c86ee93154985ba00e085e1669ac63884f1f776"
+  integrity sha512-QW4l2znZK0ZmVwTjD2q7fUoWVIkNdrGzhYtt1rzLnEOS74V8w7xym80MpmYualbgIjpjLRytLUwlEZ6WIcD+JA==
   dependencies:
     "@types/node" "*"
 
