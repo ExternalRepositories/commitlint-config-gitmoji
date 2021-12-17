@@ -3116,9 +3116,9 @@
     "@babel/types" "^7.3.0"
 
 "@types/conventional-changelog-core@*", "@types/conventional-changelog-core@^4.1.1":
-  version "4.1.1"
-  resolved "https://registry.npmjs.org/@types/conventional-changelog-core/-/conventional-changelog-core-4.1.1.tgz#30f3258881075e5ec4b4ac8e3e30d006f0693168"
-  integrity sha512-eIUsocsEtwiQB1vau0UPzuqzWERyrHzaSkUsK+kbnUkYtOM8hlFrJI+UZFxXTKU6CLR/FGsSeGPww8zgAO9WvA==
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/@types/conventional-changelog-core/-/conventional-changelog-core-4.2.1.tgz#d72a6a5117d725c8980aa084d3447a65fd66e741"
+  integrity sha512-XdQKXrWvHYvnhuXal4JcvIh3sn9LpcER/WjWDDQHh0yz3/yt0r8TvE5AyJwX6xL9BwJRpE1Ce+A0Hj16nsfI6w==
   dependencies:
     "@types/conventional-changelog-writer" "*"
     "@types/conventional-commits-parser" "*"
